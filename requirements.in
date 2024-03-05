@@ -1,4 +1,0 @@
-# incl. all the libraries from the req-dev.in file
--c requirements-dev.in
-jupyter
-ipykernel
