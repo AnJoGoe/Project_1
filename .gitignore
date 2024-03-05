@@ -1,9 +1,0 @@
-# Ignore .env files
-.env
-
-# Ignore venv
-data_analytics_venv
-
-
-requirements.in
-require,emts-dev.in
